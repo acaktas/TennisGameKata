@@ -1,0 +1,11 @@
+C:\Playground\Katas\TennisGame\TennisGameTest\bin\Debug\TennisGameTest.dll
+C:\Playground\Katas\TennisGame\TennisGameTest\bin\Debug\TennisGameTest.pdb
+C:\Playground\Katas\TennisGame\TennisGameTest\bin\Debug\nunit.framework.dll
+C:\Playground\Katas\TennisGame\TennisGameTest\bin\Debug\TennisGame.exe
+C:\Playground\Katas\TennisGame\TennisGameTest\bin\Debug\TennisGame.pdb
+C:\Playground\Katas\TennisGame\TennisGameTest\bin\Debug\TennisGame.exe.config
+C:\Playground\Katas\TennisGame\TennisGameTest\bin\Debug\nunit.framework.xml
+C:\Playground\Katas\TennisGame\TennisGameTest\obj\Debug\TennisGameTest.csprojResolveAssemblyReference.cache
+C:\Playground\Katas\TennisGame\TennisGameTest\obj\Debug\TennisGameTest.csproj.CoreCompileInputs.cache
+C:\Playground\Katas\TennisGame\TennisGameTest\obj\Debug\TennisGameTest.dll
+C:\Playground\Katas\TennisGame\TennisGameTest\obj\Debug\TennisGameTest.pdb

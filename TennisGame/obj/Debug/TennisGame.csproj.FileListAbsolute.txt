@@ -1,0 +1,7 @@
+C:\Playground\Katas\TennisGame\TennisGame\bin\Debug\TennisGame.exe.config
+C:\Playground\Katas\TennisGame\TennisGame\bin\Debug\TennisGame.exe
+C:\Playground\Katas\TennisGame\TennisGame\bin\Debug\TennisGame.pdb
+C:\Playground\Katas\TennisGame\TennisGame\obj\Debug\TennisGame.csprojResolveAssemblyReference.cache
+C:\Playground\Katas\TennisGame\TennisGame\obj\Debug\TennisGame.csproj.CoreCompileInputs.cache
+C:\Playground\Katas\TennisGame\TennisGame\obj\Debug\TennisGame.exe
+C:\Playground\Katas\TennisGame\TennisGame\obj\Debug\TennisGame.pdb
